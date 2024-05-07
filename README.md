@@ -1,5 +1,10 @@
 <h1 align="center">Привет, меня зовут Настя 👋</h1>
-<img align="right" src=<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
+<img align="right" src="https://giphy.com/gifs/JIX9t2j0ZTN9S" width="480" height="480">
 
+### Я начинающий аналитик данных 💻
 
+*На протяжении всей моей карьеры меня сопровождает любовь к числам и анализу. Мой путь начался в 2023, когда я решила более подробно разобраться в сфере анализа данных, пошла на курс "Аналитик данных" и мне понравилось.*
 
+Мои контакты:
+* 📱 [Telegram] (https://t.me/bashkova_nastia)
+* 📨 [email] (mailto:bashkova.nastia@yandex.ru)
