@@ -10,12 +10,16 @@
 * 📨 [Email](mailto:bashkova.nastia@yandex.ru)
 
 🛠️ Языки и инструменты:
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
 
-</td><td valign="top" width="33%">
+<img src="https://img.shields.io/badge/python—white?logo=python&style=for—the—badge" title="Python" alt="Python" height="40"/>&nbsp; <img src="https://img.shields.io/badge/pandas—white?logo=pandas&logoColor=blue&style=for—the—badge" title="Pandas" alt="Pandas" height="40"/>&nbsp; 
+<img src="https://img.shields.io/badge/numpy—white?logo=numpy&logoColor=blue&style=for—the—badge" title="Numpy" alt="Numpy" height="40"/>&nbsp; 
+<img src="https://img.shields.io/badge/plotly—white?logo=plotly&logoColor=blue&style=for—the—badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Scipy—white?logo=Scipy&logoColor=black&style=for—the—badge" title="Scipy" alt="Scipy" height="40"/>&nbsp; 
+<img src="https://img.shields.io/badge/Jupyter_notebook—white?logo=Jupyter&style=for—the—badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp; 
+<img src="https://img.shields.io/badge/Clickhouse—white?logo=Clickhouse&style=for—the—badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp; 
+<img src="https://img.shields.io/badge/mySQL—white?logo=mySQL&s&style=for—the—badge" title="MySQL" alt="MySQL" height="40"/>&nbsp; 
+<img src="https://img.shields.io/badge/redash—white?logo=redash&logoColor=black&style=for—the—badge" title="Redash" alt="Redash" height="40"/>&nbsp; 
+<img src="https://img.shields.io/badge/Tableau—white?logo=Tableau&s&logoColor=yellow&style=for—the—badge" title="Airflow" alt="Airflow" height="40"/>&nbsp; 
+<img src="https://img.shields.io/badge/github—white?logo=github&logoColor=black&style=for—the—badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+
+
