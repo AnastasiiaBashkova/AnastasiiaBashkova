@@ -22,11 +22,10 @@
 <img src="https://img.shields.io/badge/Tableau—white?logo=Tableau&s&logoColor=yellow&style=for—the—badge" title="Airflow" alt="Airflow" height="40"/>&nbsp; 
 <img src="https://img.shields.io/badge/github—white?logo=github&logoColor=black&style=for—the—badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
 
-📑 Мои проекты:
-<div>
-|Название проекта|Описание проекта|Стек|
-|----------------|----------------|----|
 
-|[Анализ продукта e-learning](https://github.com/AnastasiiaBashkova/project_e-learning)||Предобработка имеющихся данных, анализ успеваемости студентов, определение самых сложных и самых простых экзаменов
-.|**Python** **Pandas** **Jupyter_notebook** **Seaborn**|
+📑 Мои проекты:
+
+|Название проекта|Описание проекта|Стек|
+|----------------|----------------|----------|
+|[Анализ продукта e-learning](https://github.com/AnastasiiaBashkova/project_e-learning)|Предобработка имеющихся данных, анализ успеваемости студентов, определение самых сложных и самых простых экзаменов.|Python, Pandas, Jupyter_notebook, Seaborn|
 
