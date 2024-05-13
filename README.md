@@ -30,4 +30,4 @@
 |Название проекта|Описание проекта|Стек|
 |----------------|----------------|----------|
 |[Анализ продукта e-learning](https://github.com/AnastasiiaBashkova/project_e-learning)|Предобработка имеющихся данных, анализ успеваемости студентов, определение самых сложных и самых простых экзаменов.|Python, Pandas, Jupyter_notebook, Seaborn|
-
+|[Анализ продукта e-learning](https://github.com/AnastasiiaBashkova/project_RFM-analysis/tree/main)|Предобработка имеющихся данных, RFM анализ.|Python, Pandas, Jupyter_notebook|
