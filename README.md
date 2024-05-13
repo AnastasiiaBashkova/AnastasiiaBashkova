@@ -31,3 +31,4 @@
 |----------------|----------------|----------|
 |[Анализ продукта e-learning](https://github.com/AnastasiiaBashkova/project_e-learning)|Предобработка имеющихся данных, анализ успеваемости студентов, определение самых сложных и самых простых экзаменов.|Python, Pandas, Jupyter_notebook, Seaborn|
 |[Проведение RFM анализа](https://github.com/AnastasiiaBashkova/project_RFM-analysis/tree/main)|Предобработка имеющихся данных, RFM анализ.|Python, Pandas, Jupyter_notebook|
+|[Анализ продуктовых метрик](https://github.com/AnastasiiaBashkova/project_food_delivery)|Предобработка имеющихся данных, анализ поведения пользователей в конце квартала, оценка эффективности каналов привлечения.|Python, Pandas, Jupyter_notebook|
