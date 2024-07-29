@@ -33,6 +33,7 @@
 |Название проекта|Описание проекта|Стек|
 |----------------|----------------|----------|
 |[Анализ продукта e-learning](https://github.com/AnastasiiaBashkova/project_e-learning)|Предобработка имеющихся данных, анализ успеваемости студентов, определение самых сложных и самых простых экзаменов|Python, Pandas, Jupyter_notebook, Seaborn|
+|[Анализ продукта e-learning](https://github.com/AnastasiiaBashkova/final_project)|Предобработка имеющихся данных, анализ работы приложения, выбор метрик, проведение A/B тестов, проверка успешности эксперимента|Python, Pandas, Jupyter_notebook, Numpy, Seaborn, Scipy|
 |[Проведение RFM анализа](https://github.com/AnastasiiaBashkova/project_RFM-analysis/tree/main)|Предобработка имеющихся данных, RFM анализ|Python, Pandas, Jupyter_notebook|
 |[Анализ продуктовых метрик](https://github.com/AnastasiiaBashkova/project_food_delivery)|Предобработка имеющихся данных, анализ поведения пользователей в конце квартала, оценка эффективности каналов привлечения|Python, Pandas, Jupyter_notebook|
 |[Дашборд для визуализации ключевых процессов в Tableau](https://public.tableau.com/app/profile/anastasiia.bashkova/viz/KarpovDashboardPractice_17006494066810/ProfitMonthlyAnalysisBashkovaAA)|Подключение к БД, построение графиков, верстка дашборда|Tableau|
